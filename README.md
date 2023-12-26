@@ -4,7 +4,7 @@
 <h3 align="center">An aspiring and passionate Data Scientist from India</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=pahadic0der&label=Profile%20views&color=0e75b6&style=flat" alt="pahadic0der" /> 
+  <img src="https://komarev.com/ghpvc/?username=afkaryan&label=Profile%20views&color=0e75b6&style=flat" alt="afkaryan" /> 
 </p>
 
 - 📫 How to reach me: **bishtaryan41@gmail.com**
