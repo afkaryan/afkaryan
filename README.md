@@ -13,7 +13,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 BBA Student with strong interest in Tech & Data  
+- 🎓 B.Tech Student with strong interest in Tech & Data  
 - 💡 Currently learning **MERN Stack + Data Analytics**  
 - 🚀 Building real-world projects for placements  
 - ⚡ Fun fact: *I think I'm lazy but smart af 😄*  
@@ -45,7 +45,7 @@
 
 ---
 
-## 📊 GitHub Stats (Aligned Properly)
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=afkaryan&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afkaryan&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
@@ -56,31 +56,4 @@
 ## 🔥 Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afkaryan&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧠 Currently Learning
-- Data Structures & Algorithms  
-- Backend Optimization (Flask / Node)  
-- System Design Basics  
-
----
-
-## 💻 Featured Projects
-🚀 **Urban Growth Dashboard**  
-👉 https://urban-growth-dashboard-beta.vercel.app/  
-
-🌱 **Crop Disease Detection (ML + Flask)**  
-👉 (Add your GitHub repo link here)
-
----
-
-## ⚡ Quote I Follow
-> “Consistency beats talent when talent doesn’t work hard.”
-
----
-
-<p align="center">
-  ⭐️ From <b>Aryan Bisht</b> | Building towards 10 LPA 🚀
 </p>
